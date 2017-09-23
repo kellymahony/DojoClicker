@@ -1,0 +1,11 @@
+#cookie {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url("clipart.png");
+    background-color: orange;
+}
+
+body {
+    font-family: Helvetica;
+}
